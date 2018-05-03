@@ -1,8 +1,5 @@
 def new_hash
-	hello = {
-		:name => {},
-		:age => {}
-	}
+	hello = {}
 	hello
 end
 
