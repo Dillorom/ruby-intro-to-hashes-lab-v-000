@@ -1,5 +1,9 @@
 def new_hash
-
+	hello = {
+		:name => {},
+		:age => {}
+	}
+	hello
 end
 
 def actor
